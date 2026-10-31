@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Soundboard xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1</Version>
+  <GlobalHotkeysEnabled>true</GlobalHotkeysEnabled>
+  <MasterVolume>100</MasterVolume>
+  <CloseToTray>true</CloseToTray>
+  <LastFolder>C:\Users\29952\Music\音效\私人音效</LastFolder>
+  <Buttons>
+    <Button Id="9768c0f17158467f844971d789beb339" VirtualKey="45">
+      <Name>哎哟我去</Name>
+      <File>sounds\哎哟我去.mp3</File>
+    </Button>
+    <Button Id="64679c8359164d4d8547ea9174922209" VirtualKey="36">
+      <Name>冰冰冰</Name>
+      <File>sounds\冰冰冰.mp3</File>
+    </Button>
+    <Button Id="ac03269d6e7842c5a4cb178a7a63cd73" VirtualKey="33">
+      <Name>叹</Name>
+      <File>sounds\叹.mp3</File>
+    </Button>
+    <Button Id="99d795a6f2994425a40dc467e3358007" VirtualKey="46">
+      <Name>嗯？</Name>
+      <File>sounds\嗯？.mp3</File>
+    </Button>
+    <Button Id="23f951c08d4747e7b27a0e106f9cc1ce" VirtualKey="35">
+      <Name>哇哦</Name>
+      <File>sounds\哇哦.mp3</File>
+    </Button>
+    <Button Id="83a5b1b232514a6997cf92e34ad73378" VirtualKey="34">
+      <Name>吧哈哈哈</Name>
+      <File>sounds\吧哈哈哈.mp3</File>
+    </Button>
+  </Buttons>
+</Soundboard>
